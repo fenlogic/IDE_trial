@@ -1,7 +1,6 @@
 # IDE_trial
 Project to talk to IDE interface using Raspberry-Pi GPIO pins in SMI (Secondary Memory Interface bus) mode
 
-(Code still to come) 
 I recently found the remains of a project I started three years ago on my hard drive.
 The idea was to use the Raspberr-Pi GPIO pins in SMI mode (which stands for Secondary Memory Interface) to talk to
 an IDE interface. Although IDE is old there are still IDE to SATA adapters so it might be used to talk to SATA as well.
@@ -17,4 +16,7 @@ Maybe I did interpret them wrong!
 In this repository you will find the state of the project as I left it.
 It was NOT written for publication, nor have I done any post cleaning.
 (So you can see how my code looks like if I write for myself :-)
+
+If you want to pick up this project I am happy to answer questions.
+I might be able to find one or two spare PCBs.
 
